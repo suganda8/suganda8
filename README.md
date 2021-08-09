@@ -17,15 +17,11 @@ A sunflower under the rainstorm
 ====
 Who is he?
 ------
-Tegar Bangun Suganda is an android developer lived in Sidoarjo, Indonesia.
+Tegar Bangun Suganda is Backend Developer lived in Indonesia.
 
-I'm currently working on software house as android developer, backend developer & database analyst. Still learning as much as I can, an amateur android developer who has interest in android development, backend development, data science, machine learning & artificial intelligence technology.
+Currently, I am doing all work about Backend Development using Laravel, ExpressJS, Flask. Still learning about Mobile Development such as Flutter and Kotlin. I do love Artificial Intelligence, Machine & Deep Learning, and Natural Language Processing. Beside all of it, I love cats.
 
-Hopefully, I want to share all things that I know, Earning money is not that hard, sharing your knowledge at no cost is harder than anything else. I'm so bad at social relationship. So, I don't care who are you at least you got something by me, I really want to thank you. I'm little good at algorithm, way of thinking, creative thought. 
-
-Not so confident but I'd do my best in anything, typically double-edged perfectionist. Of course, I hate coffee and I love cats, have a problem with that?
-
-That's it, a little sunflower under the rainstorm, would the storm gone and change to the rainbow?
+Here, I want to share all things that I know, Earning money is not that hard, sharing your knowledge at no cost is harder than anything else. Not so confident but I'd do my best in anything, typically double-edged perfectionist. I'm little good at algorithm, way of thinking, creative thought.
 
 <!-- ![](static/image.png) -->
 
