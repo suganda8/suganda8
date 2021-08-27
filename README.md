@@ -28,7 +28,6 @@ Here, I want to share all things that I know, Earning money is not that hard, sh
 Where to reach him?
 ------
 [@canaryv8][1] (Twitter)\
-[@astaria8][2] (Instagram)\
 [@tegarsuganda][3] (Medium)
 
 [1]: https://twitter.com/canaryv8
