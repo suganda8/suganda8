@@ -19,9 +19,9 @@ Who is he?
 ------
 Tegar Bangun Suganda is Backend Developer lived in Indonesia.
 
-Currently, I am doing all work about Backend Development using Laravel, ExpressJS, Flask. Still learning about Mobile Development such as Flutter and Kotlin. I do love Artificial Intelligence, Machine & Deep Learning, and Natural Language Processing. Beside all of it, I love cats.
+Currently, I am doing all work about Backend Development using Laravel, ExpressJS, Flask. Still learning about Mobile Development such as Flutter and Kotlin. I do love Artificial Intelligence, Machine & Deep Learning, and Natural Language Processing. Beside all of it, I love cats. Not so confident but I'd do my best in anything, typically double-edged perfectionist. I'm little good at algorithm, way of thinking, creative thought.
 
-Here, I want to share all things that I know, Earning money is not that hard, sharing your knowledge at no cost is harder than anything else. Not so confident but I'd do my best in anything, typically double-edged perfectionist. I'm little good at algorithm, way of thinking, creative thought.
+Here on my ship, I just want to share all things that I know, Earning money is not that hard, sharing your knowledge at no cost is harder than anything else. 
 
 <!-- ![](static/image.png) -->
 
