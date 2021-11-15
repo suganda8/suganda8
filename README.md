@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A sunflower under the rainstorm
-====
-Who is he?
+Tegar Bangun Suganda
 ------
-Tegar Bangun Suganda is Backend Developer lived in Indonesia.
+I'm Backend Developer who live in Indonesia.
 
 Currently, I am doing all work about Backend Development using Laravel, ExpressJS, Flask and Mobile application using Flutter and Kotlin. I do love Artificial Intelligence, Machine & Deep Learning, and Natural Language Processing. Beside all of it, I love cats. Not so confident but I'd do my best in anything, typically double-edged perfectionist. I'm little good at algorithm, way of thinking, creative thought.
 
