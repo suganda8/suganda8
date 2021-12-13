@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 
 Tegar Bangun Suganda
 ------
-I'm Backend Developer who live in Indonesia.
+I'm Backend and Mobile Developer who live in Indonesia.
 
-Currently, I am doing all work about Backend Development using Laravel, ExpressJS, Flask and Mobile application using Flutter and Kotlin. I do love Artificial Intelligence, Machine & Deep Learning, and Natural Language Processing. Beside all of it, I love cats. Not so confident but I'd do my best in anything, typically double-edged perfectionist. I'm little good at algorithm, way of thinking, creative thought.
-
-Here on my ship, I just want to share all things that I know, Earning money is not that hard, sharing your knowledge at no cost is harder than anything else. 
+Currently, I'm doing works about Backend Development using Laravel, ExpressJS, Flask and Mobile application using Flutter and Kotlin. I love Artificial Intelligence, Machine & Deep Learning, and Natural Language Processing. Not so confident but I'd do my best at anything, typically double-edged perfectionist. I'm good at algorithm, way of thinking, creative thought.
 
 <!-- ![](static/image.png) -->
 
