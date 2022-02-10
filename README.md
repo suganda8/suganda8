@@ -22,7 +22,6 @@ Currently, I'm doing works about Backend Development using Laravel, ExpressJS, F
 <!-- ![](static/image.png) -->
 
 ## Reach me
-------
 [@canaryv8][1] (Twitter)\
 [@tegarsuganda][3] (Medium)
 
