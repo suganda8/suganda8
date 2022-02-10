@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Tegar Bangun Suganda
 ------
-I'm Backend and Mobile Developer who live in Indonesia.
+I'm Backend and Mobile Developer who lives in Indonesia.
 
 Currently, I'm doing works about Backend Development using Laravel, ExpressJS, Flask and Mobile application using Flutter and Kotlin. I love Artificial Intelligence, Machine & Deep Learning, and Natural Language Processing. Not so confident but I'd do my best at anything, typically double-edged perfectionist. I'm good at algorithm, way of thinking, creative thought.
 
