@@ -25,9 +25,6 @@ Currently, I'm doing works about Backend Development using Laravel, ExpressJS, F
 [@canaryv8][1] (Twitter)\
 [@tegarsuganda][3] (Medium)
 
-## Other
-[ASTARIA][4]
-
 [1]: https://twitter.com/canaryv8
 [2]: https://www.instagram.com/astaria8/
 [3]: https://medium.com/@tegarsuganda
