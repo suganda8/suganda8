@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Tegar Bangun Suganda
 
-I'm backend and mobile-apps developer who lives in Indonesia. Loves to build an open-source library for community and really into Artificial Intelligence.
+I'm backend and mobile-apps developer who lives in Indonesia. Loves to build an open-source library for community and really into Artificial Intelligence technologies.
 
 <!--
 
@@ -32,19 +32,12 @@ I'm backend and mobile-apps developer who lives in Indonesia. Loves to build an 
 -->
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=suganda8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=suganda8&theme=tokyonight&hide_border=false)<br/>-->
+![](https://github-readme-stats.vercel.app/api?username=suganda8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suganda8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=suganda8&theme=tokyonight&hide_border=false)<br/>-->
 
 ## Reach me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/canaryv8) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tegarsuganda) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/canaryv8) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tegarsuganda)
 
 ## Donate
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/suganda8) 
-
-  
-
-[1]: https://twitter.com/canaryv8
-[2]: https://www.instagram.com/astaria8/
-[3]: https://medium.com/@tegarsuganda
-[4]: https://astaria.space/
