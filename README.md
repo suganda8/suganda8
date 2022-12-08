@@ -33,7 +33,7 @@ I'm backend and mobile-apps developer who lives in Indonesia. Loves to build an 
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=suganda8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=suganda8&theme=tokyonight&hide_border=false)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=suganda8&theme=tokyonight&hide_border=false)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suganda8&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Reach me
