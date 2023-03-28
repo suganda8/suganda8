@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Tegar Bangun Suganda
 
-Sup there. I am backend and mobile-apps developer who lives in Indonesia. Loves to build an open-source library for community and really into Artificial Intelligence technologies.
+Sup there. I am backend and mobile-app developer who lives in Indonesia. Loves to build an open-source library for community and really into Artificial Intelligence technologies.
 
 <!--
 
