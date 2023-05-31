@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Heyoo. I'm backend and mobile-app developer who lives in Indonesia. Loves to build an open-source library for community and really into Artificial Intelligence technologies.
 \
 \
-Currently working freelance and running a private game server so-called ![Left 4 Dead 2](https://en.wikipedia.org/wiki/Left_4_Dead_2) by Valve. Join us in ![Discord](https://discord.gg/SsGJ5DzRB6) and ![Steamgroup](https://steamcommunity.com/groups/somewhatl4d2).
+Currently working freelance and running a private game server so-called [Left 4 Dead 2](https://en.wikipedia.org/wiki/Left_4_Dead_2) by Valve. Join us in [Discord](https://discord.gg/SsGJ5DzRB6) and [Steamgroup](https://steamcommunity.com/groups/somewhatl4d2).
 
 <!--
 
